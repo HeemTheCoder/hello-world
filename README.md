@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Rookie Web Developer
+
+Heem here, I like PHP & React
